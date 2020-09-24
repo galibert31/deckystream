@@ -1,4 +1,5 @@
 owner: galibert31
 repo: deckystream
 provider: github
+token: 06ae0512894b408a03e37cad8c9c85f72aaf46c2
 updaterCacheDirName: deckystream-updater
